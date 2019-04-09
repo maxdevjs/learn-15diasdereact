@@ -1,5 +1,6 @@
 import React from 'react';
+import Square from './components/Square/index';
 
-const App = () => <h1>Yup</h1>
+const App = () => <Square />;
 
 export default App;
