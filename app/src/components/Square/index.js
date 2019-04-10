@@ -1,11 +1,12 @@
 import React from 'react';
+import "./styles.css"
 
 // const Square = () => {
 //   return <button>X</button>;
 // }
 
 const Square = () => (
-  <button>XY</button>
+  <button className="square">XY</button>
 );
 
 export default Square;
