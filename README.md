@@ -8,8 +8,8 @@
 
 ===Desafios do Dia 01 dos 15 dias de React===
 
- [x] Básico Criar o componente de board
+[x] Básico Criar o componente de board
 
-Intermediário Adicionar 9 components square dentro do board
+[x] Intermediário Adicionar 9 components square dentro do board
 
-Avancado Pegar evento de clique no square
+[x] Avancado Pegar evento de clique no square
