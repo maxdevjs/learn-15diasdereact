@@ -5,8 +5,11 @@ import "./styles.css"
 //   return <button>X</button>;
 // }
 
+const handleClick = text => () => console.log(text);
+
 const Square = () => (
-  <button className="square">XY</button>
+  <button className="square"
+    onClick={handleClick("touched")}>XY</button>
 );
 
 export default Square;
