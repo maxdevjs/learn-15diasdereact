@@ -6,7 +6,8 @@
 
 [15 dias de #React - Repo](https://github.com/CollabCodeTech/15dias-de-react)
 
-===Desafios do Dia 01 dos 15 dias de React=== 
+===Desafios do Dia 01 dos 15 dias de React===
+
 [x] Básico Criar o componente de board
 
 Intermediário Adicionar 9 components square dentro do board
